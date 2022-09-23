@@ -1,6 +1,6 @@
 package jenkinPractice;
 
-import org.junit.Test;
+import org.testng.annotations.Test;
 
 public class Jenkin1Test {
 	@Test
